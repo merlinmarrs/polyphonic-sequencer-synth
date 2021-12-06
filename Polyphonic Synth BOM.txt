@@ -1,0 +1,70 @@
+BOM:
+
+x1 Hex inverter with Schmitt-Trigger Inputs 74HC14 *in SOIC-14*
+https://www.mouser.fr/ProductDetail/Texas-Instruments/SN74HC14NS?qs=sGAEpiMZZMutXGli8Ay4kAiBi7NBZhtxti2ZK8hHZzA%3D
+
+x2 Shift register 74HC595PW-Q100 *in TSSOP-16* :
+https://www.mouser.fr/ProductDetail/771-74HC595PW-Q100
+
+x1 USB C port :
+https://www.mouser.fr/ProductDetail/640-USB4125-GF-A
+
+x5 50K pot PS10MV50-503A3030:
+https://www.mouser.fr/ProductDetail/531-PS10MV50503A3030
+
+x4 Black knobs 5119NE:
+https://www.mouser.fr/ProductDetail/531-5119NE
+
+x1 Cream shaft 5116:
+https://www.mouser.fr/ProductDetail/531-5116
+
+x1 button PTS526 SK15 SMTR2 LFS:
+https://www.mouser.fr/ProductDetail/611-PTS526SK15SMR2L
+
+x2 slide switch JS202011SCQN:
+https://www.mouser.fr/ProductDetail/611-JS202011SCQN
+
+x1 set of 8 female-female jumpers ZW-FF-10:
+https://www.mouser.fr/ProductDetail/854-ZW-FF-10
+
+x3 SMD diodes BAS321,115:
+https://www.mouser.fr/ProductDetail/771-BAS321-T-R 
+
+x2 SMD header 1x8 87898-0826:
+https://www.mouser.fr/ProductDetail/538-87898-0826
+
+x1 buzzer 
+https://www.mouser.fr/ProductDetail/665-AT1224TWT5V2R
+
+x1 3.5mm jack SJ2-35853A-SMT-TR:
+https://www.mouser.fr/ProductDetail/490-SJ2-35853ASMT-TR
+
+x1 header screw terminal
+https://www.mouser.fr/ProductDetail/651-1984167
+
+Generic components:
+
+x1 green 1206 SMD LED
+
+x8 red 1206 SMD LED
+
+x2 47uF SMD 1206 cap
+
+x15 0ohm jumper 1206 SMD LED
+
+x1 0.1uF SMD 1206 cap
+
+x1 1uF SMD 1206 cap
+
+x1 10uF SMD 1206 cap
+
+x1 100uF cap
+
+x2 10K SMD 1206 resistor
+
+x3 100ohm SMD 1206 resistor
+
+x2 5k1 SMD 1206 resistor
+
+x1 1M SMD 1206 resistor
+
