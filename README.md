@@ -6,6 +6,8 @@ A mini sequencer and polyphonic synth based directly on Elliot Williams' epic Lo
 
 The boards were designed and manufactured at Fablab Digiscope in Orsay France, which is run by Romain Di Vozzo, by Jonah Marrs with funding from La Diagonale U Paris Saclay. Here's a video of the workshop and the board in action: https://vimeo.com/manage/videos/650349872
 
+Selena Pere has made an beautiful inferface for a version 2 of this device. 
+
 The sequencer portion is an 8-bit looper using a 595 shift register (and a second 595 just to make the corresponding LEDs blink). Bits can be added in LOOP mode by pushing the BEAT button. Beats are automatically added in AUTO mode by synchronizing the CLK and DATA knobs at the far right. The green LED is connected to the CLK frequency. 
 
 The jumpers can trigger one of three notes everytime that corresponding LED flashes. The timber of each note can be varied by turning the pots marked A, B and C. 
