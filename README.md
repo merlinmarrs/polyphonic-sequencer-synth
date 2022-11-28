@@ -4,7 +4,7 @@
 
 A mini sequencer and polyphonic synth based directly on Elliot Williams' epic Logic Noise series from Hackaday (https://hackaday.com/2015/02/04/logic-noise-sweet-sweet-oscillator-sounds/).
 
-The boards were designed and manufactured at Fablab Digiscope in Orsay France, which is run by Romain Di Vozzo, by Jonah Marrs with funding from La Diagonale U Paris Saclay. Here's a video of the workshop and the board in action: https://vimeo.com/manage/videos/650349872
+The boards were designed and manufactured at Fablab Digiscope in Orsay France, which is run by Romain Di Vozzo, by Jonah Marrs with funding from La Diagonale U Paris Saclay. Here's a video of the workshop and the board in action: https://vimeo.com/653720316
 
 Selena Pere has made an beautiful inferface for a version 2 of this device. 
 
