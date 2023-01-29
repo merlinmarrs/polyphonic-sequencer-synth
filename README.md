@@ -2,7 +2,7 @@
 
 **WARNING: This device could destroy your computer's USB port or USB adapter. This device also flashes at high frequency and is an epilepsy risk.**
 
-*NOTE: Not all 74HC14 ICs work for this circuit. Elliot Williams uses the CD40106BE instead. Make sure your 74HC14 has Schmitt trigger with hysteresis and maybe order a couple different brands to be sure.
+*NOTE: Not all 74HC14 ICs work for this circuit. Elliot Williams uses the CD40106BE instead. Make sure your 74HC14 has Schmitt trigger with hysteresis and maybe order a couple different brands to be sure. I find that Nexperia ICs work well and not I have had bad luck with Diodes Incorporated.
 
 A mini sequencer and polyphonic synth based directly on Elliot Williams' epic Logic Noise series from Hackaday (https://hackaday.com/2015/02/04/logic-noise-sweet-sweet-oscillator-sounds/).
 
