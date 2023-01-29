@@ -2,6 +2,8 @@
 
 **WARNING: This device could destroy your computer's USB port or USB adapter. This device also flashes at high frequency and is an epilepsy risk.**
 
+*NOTE: Not all 74HC14 ICs work for this circuit. Elliot Williams uses the CD40106BE instead. Make sure your 74HC14 has Schmitt trigger with hysteresis and maybe order a couple different brands to be sure.
+
 A mini sequencer and polyphonic synth based directly on Elliot Williams' epic Logic Noise series from Hackaday (https://hackaday.com/2015/02/04/logic-noise-sweet-sweet-oscillator-sounds/).
 
 The boards were designed and manufactured at Fablab Digiscope in Orsay France, which is run by Romain Di Vozzo, by Jonah Marrs with funding from La Diagonale U Paris Saclay. Here's a video of the workshop and the board in action: https://vimeo.com/653720316
